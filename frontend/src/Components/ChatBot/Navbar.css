@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Barrio&family=Cinzel+Decorative&family=La+Belle+Aurore&family=Lavishly+Yours&family=Libre+Barcode+128+Text&family=Libre+Barcode+39&family=Libre+Barcode+39+Text&family=Marck+Script&family=Monoton&family=Ms+Madi&family=Oranienbaum&family=Scada&family=Zilla+Slab+Highlight&display=swap');
+body{
+    font-family: 'Scada', sans-serif;
+}
+.active{
+    text-decoration: none;
+    color:#E2C091 !important;
+    
+}
+.indicator
+{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+.mobilehead
+{
+    font-family: 'Ms Madi', cursive;
+    font-weight: 600;
+
+}
+.fashionhead
+{
+    font-family: 'Libre Barcode 128 Text', cursive;
+}
+.elchead{
+    font-family: 'Cinzel Decorative', cursive;
+}
+.btn
+{
+    font-family: 'Scada', sans-serif;
+}
+.btnstyle
+{
+    font-family: 'La Belle Aurore', cursive;
+}
+.cards :hover
+{
+    background-color: #7e3535;
+    border:3px solid #f8f8f8;
+}
+
+button {
+    cursor: pointer;
+    font: inherit;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .button {
+    background-color: #404663;
+    color: #fff;
+    border: 0;
+    font-size: 2rem;
+    font-weight: 400;
+    padding: 0.5em 1.25em;
+    border-radius: 0.5em;
+    z-index: 999;
+    position: relative;
+    display: flex;
+    gap: 0.5em;
+    box-shadow:
+      0px 1.7px 2.2px rgba(0, 0, 0, 0.02),
+      0px 4px 5.3px rgba(0, 0, 0, 0.028),
+      0px 7.5px 10px rgba(0, 0, 0, 0.035),
+      0px 13.4px 17.9px rgba(0, 0, 0, 0.042),
+      0px 25.1px 33.4px rgba(0, 0, 0, 0.05),
+      0px 60px 80px rgba(0, 0, 0, 0.07);
+  }
+  
+  .button:active {
+    transform: scale(1.01);
+  }
+  .navbarfix{
+    top:0;
+    background-color: #7e3535;
+    position: -webkit-sticky;
+    position: sticky;
+    display: block;
+  
+  }
+  .fashioninner{
+    text-decoration: none;
+    color:"black";
+    font-family: 'Libre Barcode 128 Text', cursive;
+    font-size: 4rem;
+  }
+  .mobileinner{
+    text-decoration: none;
+    color:"black";
+    font-family: 'Ms Madi', cursive;
+    font-weight: 600;
+    font-size: 3.2rem;
+
+  }
+  .travelinner{
+    text-decoration: none;
+    color:"black";
+    font-family: 'Ms Madi', cursive;
+    font-weight: 600;
+    font-size: 3.2rem;
+  }
+  .electronicsinner{
+    text-decoration: none;
+    color:"black";
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 1.8rem;
+    margin-top:5vh;
+    font-weight: 600;
+  }
+  .electricalinner{
+    text-decoration: none;
+    color:"black";
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 1.8rem;
+    font-weight: 600;
+  }
+  .homeinner{
+    text-decoration: none;
+    color:"black";
+    font-family: 'La Belle Aurore', cursive;
+    font-weight: 600;
+    font-size: 2.2rem;
+  }
+  .groceryinner{
+    text-decoration: none;
+    color:"black";
+    font-size: 2.5rem;
+    font-weight: 600;
+    letter-spacing: 2px;
+  }
+/*
+
+    font-family: 'Barrio', cursive;
+
+    font-family: 'Cinzel Decorative', cursive;
+
+    font-family: 'La Belle Aurore', cursive;
+
+    font-family: 'Lavishly Yours', cursive;
+
+    font-family: 'Libre Barcode 128 Text', cursive;
+
+    font-family: 'Libre Barcode 39', cursive;
+
+    font-family: 'Libre Barcode 39 Text', cursive;
+
+    font-family: 'Marck Script', cursive;
+
+    font-family: 'Monoton', cursive;
+
+    font-family: 'Ms Madi', cursive;
+
+    font-family: 'Oranienbaum', serif;
+
+    font-family: 'Scada', sans-serif;
+
+    font-family: 'Zilla Slab Highlight', cursive;
+
+*/

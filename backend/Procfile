@@ -1,0 +1,1 @@
+web: gunicorn flipkart_grid.wsgi --log-file -
